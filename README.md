@@ -12,25 +12,20 @@
 am einfachsten dadurch, dass die App gar keine personenbezogenen Daten erhebt, verarbeitet oder
 überträgt.
 
-## 1. Verantwortlicher
 
-[DEIN NAME]
-
-Kontakt: [DEINE-KONTAKT-E-MAIL]
-
-## 2. Welche Daten werden verarbeitet?
+## 1. Welche Daten werden verarbeitet?
 
 **Keine.** Die App sammelt, speichert oder überträgt keinerlei personenbezogene Daten. Es gibt
 kein Nutzerkonto, keine Registrierung, kein Tracking, keine Analyse- oder Werbe-SDKs und keine
 Verbindung zu unseren Servern (wir betreiben keine).
 
-## 3. Lokale Speicherung auf deinem Gerät
+## 2. Lokale Speicherung auf deinem Gerät
 
 Spieleinstellungen (z. B. Lautstärke, gewählte Schwierigkeit) und deine Rekorde/Bestzeiten werden
 ausschließlich **lokal auf deinem Gerät** gespeichert (in den App-Einstellungen / `UserDefaults`).
 Diese Daten verlassen dein Gerät nicht und werden beim Löschen der App entfernt.
 
-## 4. Lokales Mehrspieler-Spiel (Bluetooth/WLAN)
+## 3. Lokales Mehrspieler-Spiel (Bluetooth/WLAN)
 
 Für das lokale Zwei-Geräte-Spiel bei „Schiffe versenken" nutzt die App Apples
 *Multipeer Connectivity* (Bluetooth bzw. lokales WLAN), um sich direkt mit einem Gerät in deiner
@@ -38,19 +33,19 @@ Nähe zu verbinden. Dabei werden nur die Spielzüge zwischen den beiden Geräten
 **direkt und lokal**, ohne Umweg über einen Server und ohne dass dabei personenbezogene Daten
 erhoben oder gespeichert werden.
 
-## 5. Berechtigungen
+## 4. Berechtigungen
 
 Die App fragt die Erlaubnis für das **lokale Netzwerk** nur, wenn du das lokale Mehrspieler-Spiel
 startest. Sie wird ausschließlich für die direkte Geräte-zu-Geräte-Verbindung verwendet.
 
-## 6. Kinder
+## 5. Kinder
 
 Die App ist für alle Altersgruppen geeignet und erhebt keine Daten – auch nicht von Kindern.
 
-## 7. Änderungen
+## 6. Änderungen
 
 Sollte sich diese Datenschutzerklärung ändern, wird die aktualisierte Fassung hier veröffentlicht.
 
-## 8. Kontakt
+## 7. Kontakt
 
 Bei Fragen zum Datenschutz: [DEINE-KONTAKT-E-MAIL]
