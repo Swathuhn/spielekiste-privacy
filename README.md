@@ -46,6 +46,3 @@ Die App ist für alle Altersgruppen geeignet und erhebt keine Daten – auch nic
 
 Sollte sich diese Datenschutzerklärung ändern, wird die aktualisierte Fassung hier veröffentlicht.
 
-## 7. Kontakt
-
-Bei Fragen zum Datenschutz: [DEINE-KONTAKT-E-MAIL]
