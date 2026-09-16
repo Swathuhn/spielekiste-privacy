@@ -1,131 +1,142 @@
 # Datenschutzerklärung – Pixelkiste
 
-*Stand: September 2026*
-
-**Pixelkiste** ist eine Spielesammlung für iOS. Die Spiele selbst laufen vollständig offline auf
-deinem Gerät. Für die Finanzierung wird Werbung eingeblendet – dafür werden Daten an unseren
-Werbepartner übermittelt. Was genau, steht in Abschnitt 3.
+Stand: 16. September 2026
 
 ## 1. Verantwortlicher
 
-Verantwortlich für die Datenverarbeitung im Sinne der DSGVO:
+Verantwortlich für die Datenverarbeitung im Zusammenhang mit der App „Pixelkiste" ist:
 
-[DEIN VOLLER NAME]
+Jannes Hustedt
 
-Kontakt über das Feedback- und Support-Formular:
+
+Kontakt: über das Support-Formular
 <https://docs.google.com/forms/d/e/1FAIpQLSczwou1hWvx7pJHhMsG-7Np9VJNyztT4ZilV5YTV-FfkbMmhw/viewform>
 
-## 2. Daten, die auf deinem Gerät bleiben
+Auf eine E-Mail-Adresse wird bewusst verzichtet; das Formular ist ohne Anmeldung erreichbar
+und der offizielle Kontaktweg.
 
-Spieleinstellungen (z. B. Lautstärke, gewählte Schwierigkeit) und deine Rekorde und Bestzeiten
-werden ausschließlich **lokal auf deinem Gerät** gespeichert (`UserDefaults`). Diese Daten
-verlassen dein Gerät nicht, wir haben keinen Zugriff darauf, und sie werden beim Löschen der App
-entfernt.
+## 2. Überblick
 
-Es gibt **kein Nutzerkonto**, keine Registrierung und keine Anmeldung.
+Pixelkiste ist eine Sammlung von 19 Offline-Spielen. Die App hat **kein Nutzerkonto**, keine
+Anmeldung und keine Cloud-Synchronisation. Spielstände, Rekorde und Einstellungen bleiben
+ausschließlich auf deinem Gerät.
 
-## 3. Werbung
+Personenbezogene Daten verlassen dein Gerät nur in einem einzigen Fall: für die Auslieferung
+von **Werbung** (Abschnitt 3) – und auch das nur, wenn du eingewilligt hast.
 
-Zur Finanzierung der App wird beim Neustart eines Spiels gelegentlich Werbung eingeblendet.
-Dafür nutzen wir **Google AdMob** (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4,
-Irland).
+## 3. Werbung (Google AdMob)
 
-**Wir schalten ausschließlich nicht-personalisierte Werbung.** Die Anzeigen richten sich also
-nicht nach deinen Interessen oder deinem bisherigen Verhalten, und es findet kein Tracking über
-Apps oder Webseiten hinweg statt. Deshalb fragt die App auch nicht nach der Erlaubnis zum
-Tracking (kein ATT-Dialog).
+Zur Finanzierung der App werden gelegentlich ganzseitige Anzeigen beim Neustart eines Spiels
+eingeblendet. Dienstleister ist:
 
-Auch nicht-personalisierte Werbung kommt nicht ganz ohne Daten aus. Google verarbeitet dabei:
+Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland
 
-* eine **Geräte-Kennung** (nicht mit deiner Person verknüpft),
-* deine **IP-Adresse** und daraus abgeleitet dein **ungefährer Standort** (Land/Region),
-* **technische Gerätedaten** (Gerätetyp, Betriebssystemversion, Spracheinstellung),
-* **Interaktionen mit der Anzeige** (eingeblendet, angesehen, angetippt).
+Es werden **ausschließlich nicht-personalisierte Anzeigen** ausgeliefert. Das heißt: Die
+Anzeigenauswahl richtet sich nicht nach deinen Interessen oder deinem bisherigen Verhalten,
+sondern im Wesentlichen nach dem groben Standort und dem Inhalt der App.
 
-Zweck ist die Auslieferung der Anzeigen, die Begrenzung der Anzeigehäufigkeit, die Messung der
-Reichweite sowie die Erkennung von Betrug und Missbrauch.
+Dabei verarbeitet Google insbesondere:
 
-**Rechtsgrundlage** ist deine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO. Sie wird beim ersten
-Start der App über einen Einwilligungsdialog eingeholt.
+* Geräte- und Werbekennungen sowie technische Gerätedaten (Modell, Betriebssystemversion,
+  Spracheinstellung)
+* eine **grobe** Standortangabe, die aus der IP-Adresse abgeleitet wird (Land/Region, nicht
+  dein genauer Aufenthaltsort)
+* Interaktionen mit der Anzeige (Einblendung, Klick) zur Abrechnung und zur Betrugserkennung
 
-Dabei können Daten auch an **Google LLC in den USA** übermittelt werden. Google stützt diese
-Übermittlung auf die Standardvertragsklauseln der EU-Kommission und die Zertifizierung nach dem
-EU-US Data Privacy Framework.
+Auch nicht-personalisierte Anzeigen benötigen einen Zugriff auf Informationen auf deinem
+Gerät, etwa zur Häufigkeitsbegrenzung und zur Betrugserkennung.
 
-Weitere Informationen dazu, wie Google Daten aus der Nutzung von Partner-Apps verarbeitet:
-<https://policies.google.com/technologies/partner-sites>
+**Rechtsgrundlage:** deine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO in Verbindung mit
+§ 25 Abs. 1 TDDDG.
 
-## 4. Einwilligung ändern oder widerrufen
+**Drittlandübermittlung:** Eine Verarbeitung in den USA ist nicht ausgeschlossen. Google LLC
+ist unter dem EU-US Data Privacy Framework zertifiziert; ergänzend bestehen
+Standardvertragsklauseln nach Art. 46 Abs. 2 lit. c DSGVO.
 
-Du kannst deine Entscheidung **jederzeit mit Wirkung für die Zukunft ändern**. Die App bietet
-dazu in den **Einstellungen** einen Eintrag zur Verwaltung der Datenschutz-Einstellungen, über
-den sich der Einwilligungsdialog erneut öffnen lässt.
+Informationen von Google zur Datenverarbeitung:
+<https://policies.google.com/technologies/partner-sites> und
+<https://business.safety.google/privacy/>
 
-Der Widerruf berührt nicht die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung.
+## 4. Einwilligung und Widerruf
 
-Wenn du gar keine Werbung möchtest, kannst du alternativ das Abo „Werbefrei" abschließen
-(Abschnitt 5).
+Beim ersten Start zeigt die App einen Einwilligungsdialog (Consent Management Platform von
+Google, „UMP"). Ohne deine Einwilligung wird **keine** Anzeigenanfrage gestellt.
 
-## 5. Abo „Werbefrei"
+Du kannst deine Entscheidung **jederzeit ändern oder widerrufen**: in der App unter
+**Einstellungen → Datenschutz-Einstellungen**. Der Widerruf wirkt für die Zukunft; die
+Rechtmäßigkeit der bis dahin erfolgten Verarbeitung bleibt unberührt.
 
-Die App bietet ein optionales, monatlich kündbares Abo, mit dem keine Werbung mehr angezeigt
-wird.
+Nutzerinnen und Nutzer mit aktivem Abo „Werbefrei" sehen weder Werbung noch den
+Einwilligungsdialog.
 
-Kauf und Abrechnung laufen **vollständig über deinen App-Store-Account bei Apple**. Wir erhalten
-**keine Zahlungsdaten** – weder Name, noch Adresse, noch Bank- oder Kreditkartendaten. Unsere App
-erfährt von Apple lediglich, **ob** ein gültiges Abo besteht. Dieser Status wird nur lokal auf
-deinem Gerät gespeichert.
+## 5. Kein Tracking, kein ATT-Dialog
 
-Für die Zahlungsabwicklung gilt die Datenschutzerklärung von Apple:
-<https://www.apple.com/legal/privacy/>
+Die App führt **kein Tracking** im Sinne des App-Tracking-Transparency-Frameworks von Apple
+durch: Es werden keine Daten app- oder geräteübergreifend mit Daten Dritter zusammengeführt,
+um Profile zu bilden. Deshalb erscheint auch kein ATT-Abfragedialog.
 
-Verwalten und kündigen kannst du das Abo in den Einstellungen deines Apple-Kontos.
+## 6. Abo „Werbefrei"
 
-## 6. Lokales Mehrspieler-Spiel (Bluetooth/WLAN)
+Das optionale Abo „Werbefrei" (0,99 € pro Monat, Laufzeit 1 Monat, automatische Verlängerung)
+wird vollständig über Apple abgewickelt. Kauf, Abrechnung und Verwaltung laufen über deine
+Apple-ID; die App erhält von Apple lediglich die Information, **ob** ein gültiges Abo vorliegt.
+Zahlungsdaten werden weder erhoben noch gespeichert noch an den Verantwortlichen übermittelt.
 
-Für das lokale Zwei-Geräte-Spiel bei „Schiffe versenken" nutzt die App Apples
-*Multipeer Connectivity* (Bluetooth bzw. lokales WLAN), um sich direkt mit einem Gerät in deiner
-Nähe zu verbinden. Dabei werden ausschließlich die Spielzüge zwischen den beiden Geräten
-ausgetauscht – **direkt und lokal**, ohne Umweg über einen Server und ohne dass dabei
-personenbezogene Daten erhoben oder gespeichert werden.
+Verantwortlich für die Zahlungsabwicklung ist Apple. Es gilt die Datenschutzerklärung von
+Apple: <https://www.apple.com/legal/privacy/de-ww/>
 
-## 7. Berechtigungen
+**Rechtsgrundlage:** Vertragserfüllung, Art. 6 Abs. 1 lit. b DSGVO.
 
-Die App fragt die Erlaubnis für das **lokale Netzwerk** nur dann, wenn du das lokale
-Mehrspieler-Spiel startest. Sie wird ausschließlich für die direkte Geräte-zu-Geräte-Verbindung
-verwendet.
+## 7. Lokal gespeicherte Daten
 
-## 8. Kinder
+Auf deinem Gerät speichert die App in den App-eigenen Einstellungen (`UserDefaults`):
+Bestzeiten und Highscores, gewählte Schwierigkeitsgrade und Spielmodi, Ton-, Musik- und
+Vibrationseinstellungen sowie den Zeitpunkt der zuletzt gezeigten Anzeige (für den
+Mindestabstand zwischen zwei Anzeigen).
 
-Die App ist für alle Altersgruppen geeignet. Wir erheben wissentlich keine Daten von Kindern.
-Da ausschließlich nicht-personalisierte Werbung ausgeliefert wird, findet auch kein auf Kinder
-zugeschnittenes Profiling statt.
+Diese Daten verlassen dein Gerät nicht. Du kannst Rekorde in der App unter
+**Einstellungen → Rekorde zurücksetzen** löschen; durch das Löschen der App werden alle
+Daten entfernt.
 
-## 9. Speicherdauer
+## 8. Bluetooth und lokales Netzwerk
 
-Lokal gespeicherte Spielstände und Einstellungen bleiben, bis du sie in der App zurücksetzt oder
-die App löschst. Für die Speicherdauer der im Rahmen der Werbung verarbeiteten Daten ist Google
-verantwortlich; Angaben dazu findest du in Googles Datenschutzerklärung.
+Für das Spiel „Schiffe versenken" gegen ein zweites Gerät in der Nähe baut die App eine
+direkte Verbindung über das lokale Netzwerk bzw. Bluetooth auf. Übertragen werden
+ausschließlich Spielzüge und ein Anzeigename. Es gibt keinen Server, keine Zwischenspeicherung
+und keine Übermittlung an Dritte. iOS fragt vor der ersten Nutzung um Erlaubnis.
 
-## 10. Deine Rechte
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Bereitstellung der gewünschten Funktion).
 
-Du hast nach der DSGVO das Recht auf **Auskunft** (Art. 15), **Berichtigung** (Art. 16),
-**Löschung** (Art. 17), **Einschränkung der Verarbeitung** (Art. 18), **Datenübertragbarkeit**
-(Art. 20) sowie ein **Widerspruchsrecht** (Art. 21). Eine erteilte Einwilligung kannst du
+## 9. Empfänger
+
+Außer Google (Werbung, Abschnitt 3) und Apple (Abo-Abwicklung, Abschnitt 6) werden keine
+Daten an Dritte weitergegeben. Ein Verkauf von Daten findet nicht statt.
+
+## 10. Speicherdauer
+
+Lokal gespeicherte Daten bleiben, bis du sie zurücksetzt oder die App löschst. Für die im
+Rahmen der Werbung verarbeiteten Daten gelten die Fristen von Google (siehe Abschnitt 3).
+Deine Einwilligungsentscheidung wird auf dem Gerät gespeichert und läuft nach den Vorgaben
+der CMP ab – danach wirst du erneut gefragt.
+
+## 11. Deine Rechte
+
+Du hast das Recht auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17),
+Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) sowie das Recht,
+einer Verarbeitung zu widersprechen (Art. 21 DSGVO). Eine erteilte Einwilligung kannst du
 jederzeit widerrufen (Abschnitt 4).
 
-Da wir selbst keine personenbezogenen Daten speichern und dich nicht identifizieren können,
-richten sich Anfragen zu den im Rahmen der Werbung verarbeiteten Daten direkt an Google.
-Selbstverständlich helfen wir dir bei der Weiterleitung – melde dich über das Formular in
-Abschnitt 1.
+Wende dich dafür an den in Abschnitt 1 genannten Kontaktweg.
 
-Außerdem steht dir ein **Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde** zu.
+Unabhängig davon steht dir ein **Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde** zu,
+insbesondere in dem Mitgliedstaat deines Aufenthaltsorts oder des mutmaßlichen Verstoßes
+(Art. 77 DSGVO).
 
-## 11. Änderungen dieser Erklärung
+## 12. Kinder und Änderungen dieser Erklärung
 
-Sollte sich diese Datenschutzerklärung ändern, wird die aktualisierte Fassung hier veröffentlicht.
+Die App richtet sich an ein allgemeines Publikum und ist mit **4+** eingestuft. Sie erhebt
+wissentlich keine Daten von Kindern, die über das in Abschnitt 3 Beschriebene hinausgehen;
+personalisierte Werbung findet nicht statt.
 
-## 12. Kontakt
-
-Fragen zum Datenschutz oder zur App? Schreib uns über das Formular:
-<https://docs.google.com/forms/d/e/1FAIpQLSczwou1hWvx7pJHhMsG-7Np9VJNyztT4ZilV5YTV-FfkbMmhw/viewform>
+Diese Erklärung wird angepasst, wenn sich die App oder die Rechtslage ändert. Maßgeblich ist
+die jeweils unter dieser Adresse veröffentlichte Fassung. Das Datum oben zeigt den Stand.
