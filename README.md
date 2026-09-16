@@ -1,8 +1,8 @@
-# Datenschutzerklärung – Spielkiste
+# Datenschutzerklärung – Pixelkiste
 
 *Stand: September 2026*
 
-**Spielkiste** ist eine Spielesammlung für iOS. Die Spiele selbst laufen vollständig offline auf
+**Pixelkiste** ist eine Spielesammlung für iOS. Die Spiele selbst laufen vollständig offline auf
 deinem Gerät. Für die Finanzierung wird Werbung eingeblendet – dafür werden Daten an unseren
 Werbepartner übermittelt. Was genau, steht in Abschnitt 3.
 
