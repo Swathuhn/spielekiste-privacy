@@ -12,8 +12,6 @@ Jannes Hustedt
 Kontakt: über das Support-Formular
 <https://docs.google.com/forms/d/e/1FAIpQLSczwou1hWvx7pJHhMsG-7Np9VJNyztT4ZilV5YTV-FfkbMmhw/viewform>
 
-Auf eine E-Mail-Adresse wird bewusst verzichtet; das Formular ist ohne Anmeldung erreichbar
-und der offizielle Kontaktweg.
 
 ## 2. Überblick
 
